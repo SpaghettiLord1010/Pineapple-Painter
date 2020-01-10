@@ -1,0 +1,13 @@
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\bin\Debug\PineapplePainter.exe.config
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\bin\Debug\PineapplePainter.exe
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\bin\Debug\PineapplePainter.pdb
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\bin\Debug\SimpleTextFunctions.dll
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\bin\Debug\SimpleTextFunctions.pdb
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.csprojAssemblyReference.cache
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.Form1.resources
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.Properties.Resources.resources
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.csproj.GenerateResource.cache
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.csproj.CoreCompileInputs.cache
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.csproj.CopyComplete
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.exe
+C:\Users\Testing\source\repos\PineapplePainter\PineapplePainter\obj\Debug\PineapplePainter.pdb
